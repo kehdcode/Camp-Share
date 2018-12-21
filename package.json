@@ -1,0 +1,23 @@
+{
+  "name": "camp-share",
+  "version": "1.0.0",
+  "description": "This is a node js application, where individuals can share their camping experience",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kehdcode/Camp-Share.git"
+  },
+  "author": "Kehdcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kehdcode/Camp-Share/issues"
+  },
+  "homepage": "https://github.com/kehdcode/Camp-Share#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
